@@ -1,0 +1,8 @@
+# Audiodescrição Automatizada — Grow up · Porto Digital × Globo · 2026.1
+google-genai
+edge-tts
+opencv-python
+Pillow
+python-dotenv
+yt-dlp
+pygame

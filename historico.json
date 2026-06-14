@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nome": "Família abraçando sol na janela",
+    "fonte": "video2.mxf",
+    "duracao_s": 30.4,
+    "palavras": 36,
+    "data": "14/06/2026 16:57",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Família abraçando sol na janela.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Família abraçando sol na janela.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Família abraçando sol na janela.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Família abraçando sol na janela_player.html"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Homem na praia urbana",
+    "fonte": "video1.mp4",
+    "duracao_s": 12.5,
+    "palavras": 23,
+    "data": "14/06/2026 18:08",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Homem na praia urbana.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Homem na praia urbana.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Homem na praia urbana.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Homem na praia urbana_player.html"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Gato mia Mamma",
+    "fonte": "youtube_video.mp4",
+    "duracao_s": 15.3,
+    "palavras": 29,
+    "data": "14/06/2026 18:08",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Gato mia Mamma.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Gato mia Mamma.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Gato mia Mamma.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Gato mia Mamma_player.html"
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Pare de esperar pronto",
+    "fonte": "https://youtu.be/h4NzUoUVi38?si=redF8PTF8eUXm-Tk",
+    "duracao_s": 70.0,
+    "palavras": 225,
+    "data": "14/06/2026 18:11",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Pare de esperar pronto.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Pare de esperar pronto.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Pare de esperar pronto.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Pare de esperar pronto_player.html"
+    }
+  },
+  {
+    "id": 5,
+    "nome": "Anel do humor dragão",
+    "fonte": "https://youtu.be/nCKwUB8EVbc?si=aMgn8Zta6Nx-PPWE",
+    "duracao_s": 84.8,
+    "palavras": 209,
+    "data": "14/06/2026 19:29",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Anel do humor dragão.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Anel do humor dragão.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Anel do humor dragão.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Anel do humor dragão_player.html"
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Garota Vira Dragão",
+    "fonte": "youtube_video.mp4",
+    "duracao_s": 84.8,
+    "palavras": 203,
+    "data": "14/06/2026 19:37",
+    "arquivos": {
+      "txt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Garota Vira Dragão.txt",
+      "mp3": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Garota Vira Dragão.mp3",
+      "srt": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Garota Vira Dragão.srt",
+      "html": "C:\\Users\\annev\\Downloads\\audiodescrição.py\\Garota Vira Dragão_player.html"
+    }
+  }
+]
