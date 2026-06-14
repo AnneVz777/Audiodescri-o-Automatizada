@@ -194,19 +194,4 @@ yt-dlp            # Download de vídeos do YouTube
 pygame            # Reprodução de áudio
 ```
 
----
 
-## 👥 Grupo Grow up
-
-| Nome | Contribuição |
-|---|---|
-| **Anne Vitória** | Arquitetura do sistema, integração Gemini, SRT, player HTML, histórico, batch |
-| **William Santos** | Código base (OpenCV + Gemini + gTTS), estrutura modular inicial |
-| **Vitória** | Organização do conteúdo e apresentação |
-
----
-
-## 📄 Licença
-
-Projeto acadêmico desenvolvido para fins educacionais e de pesquisa aplicada.  
-**Residência Tecnológica Porto Digital × TV Globo · UNIT 2026.1**
