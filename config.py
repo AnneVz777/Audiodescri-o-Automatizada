@@ -1,12 +1,16 @@
-import os
+﻿import os
 import sys
+from dotenv import load_dotenv
 
-# ── API Key ─────────────────────────────
-GOOGLE_API_KEY = "AQ.Ab8RN6KBdusqvBUOgRWY6ledfV0rusrdPJ-AT1x0D8XIRL_Jvw"
+load_dotenv()
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+if not GOOGLE_API_KEY:
+    print("ERRO: API Key nao encontrada. Verifique o arquivo .env")
+    sys.exit(1)
 
 VOICE       = "pt-BR-FranciscaNeural"
-VOICE_RATE  = "+0%"   # velocidade: -20% mais lento / +20% mais rápido
-VOICE_PITCH = "+0Hz"  # tom: -10Hz mais grave / +10Hz mais agudo
+VOICE_RATE  = "+0%"
+VOICE_PITCH = "+0Hz"
 
-# ── Configurações gerais ─────────────────────────────────────
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
